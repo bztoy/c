@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# local binary files
+h2o
+ttooyy
+
+# just ignore them
+foo.txt
